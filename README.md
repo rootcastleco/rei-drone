@@ -2,7 +2,7 @@
   <h1>REI-Drone: Open Source VTOL Tilt-Rotor UAV</h1>
   <p><strong>Design, Simulation, and Experimental Analysis of a Modular VTOL Unmanned Aerial Vehicle</strong></p>
   
-  ![REI Drone Conceptual Design](/Users/mac/.gemini/antigravity/brain/1f802afc-f699-4292-8e4a-b7d5132fd4ac/media__1776975446043.png)
+  ![REI Drone Conceptual Design](figures/conceptual_design.png)
 
   <p align="center">
     <img src="https://img.shields.io/badge/License-CERN--OHL--S_v2-blue.svg" alt="License">
@@ -38,7 +38,7 @@ Designed for both academic research and practical implementation, this project b
 
 The UAV features a highly modular structure designed for rapid prototyping, maintenance, and payload integration. The aerodynamic fuselage houses the core avionics, while the wing and arm assemblies incorporate the tilt-rotor mechanisms.
 
-![REI Drone Exploded Diagram & Technical Guide](/Users/mac/.gemini/antigravity/brain/1f802afc-f699-4292-8e4a-b7d5132fd4ac/media__1776976996034.png)
+![REI Drone Exploded Diagram & Technical Guide](figures/exploded_diagram.png)
 
 **Key Components:**
 - **Propulsion System:** High-efficiency 3-blade propellers driven by 2216 880KV brushless motors. The front motors are mounted on precision tilt mechanisms for VTOL-to-cruise transition.
