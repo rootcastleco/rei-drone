@@ -34,6 +34,20 @@ Designed for both academic research and practical implementation, this project b
 
 ---
 
+## Hardware Design & Assembly
+
+The UAV features a highly modular structure designed for rapid prototyping, maintenance, and payload integration. The aerodynamic fuselage houses the core avionics, while the wing and arm assemblies incorporate the tilt-rotor mechanisms.
+
+![REI Drone Exploded Diagram & Technical Guide](/Users/mac/.gemini/antigravity/brain/1f802afc-f699-4292-8e4a-b7d5132fd4ac/media__1776976996034.png)
+
+**Key Components:**
+- **Propulsion System:** High-efficiency 3-blade propellers driven by 2216 880KV brushless motors. The front motors are mounted on precision tilt mechanisms for VTOL-to-cruise transition.
+- **Airframe Structure:** The central fuselage contains a sliding battery tray for the 6S LiPo, ensuring optimal center of gravity, while the fixed wings integrate structural arms and vertical stabilizers.
+- **Avionics Bay:** The flight controller, power distribution board, and telemetry modules are stacked securely in the main body compartment, covered by a protective shell.
+- **Payload & Landing Gear:** A detachable nose module supports optional camera gimbals, and the undercarriage features removable landing gear legs for ground clearance.
+
+---
+
 ## System Architecture
 
 ### Hardware & Avionics Flow
